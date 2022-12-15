@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827246763504",
+    "project_id": "upte-beta",
+    "storage_bucket": "upte-beta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827246763504:android:fbc7de5016516525675135",
+        "android_client_info": {
+          "package_name": "com.example.uptebeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827246763504-5l4ierjtnrs1gt0cga0npqamter5ns6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8dcLVAlKAG3wqOHjfwJHLbMKhL8HKhnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827246763504-5l4ierjtnrs1gt0cga0npqamter5ns6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
